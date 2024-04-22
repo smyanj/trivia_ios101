@@ -1,5 +1,5 @@
 # trivia_ios101
-# Project 3 - *Triviae*
+# Project 3 - *Trivia*
 
 Submitted by: **Smyan Jaipuriyar**
 
